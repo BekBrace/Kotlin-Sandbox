@@ -21,6 +21,6 @@ And as you know, Computers only understand binary zeros and ones, so over the ye
 programming languages such as c , Basic, C#, Python, Julia, Scala, Rust, Go, java or javascript just
 to name a few, and since kotlin was created much more recently it has taken the lessons from
 the earlier languages to make something that is both powerful and easy to use 
-
 To write Kotlin code, I am going to use intellij which you can download for free 
 ==> jetbrains.com/idea/download
+I hope this beginner friendly tutorial will be helpful
